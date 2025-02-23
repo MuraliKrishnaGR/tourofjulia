@@ -10,3 +10,4 @@ println(""" "a" is a = """,typeof("a"), """ and 'a' is a  = """, typeof('a'))
 # $ represents variable // string interpolation [ சரம் இடைச்செருகல் ]
 newVariable =  10
 println(" the value of newVariable = $newVariable ")
+  
