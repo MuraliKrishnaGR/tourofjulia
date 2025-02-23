@@ -1,3 +1,3 @@
 ## tour of julia
 
-hi da
+nanum than da leo
