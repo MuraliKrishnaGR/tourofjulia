@@ -11,3 +11,8 @@ println(""" "a" is a = """,typeof("a"), """ and 'a' is a  = """, typeof('a'))
 newVariable =  10
 println(" the value of newVariable = $newVariable ")
   
+new1 = "hello"
+new2 = " World"
+new3 = new1 * new2
+
+println(new3) 
